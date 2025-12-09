@@ -16,6 +16,7 @@ This guide serves as a central hub for learning the fundamental principles, patt
 
 
 
+
 ### Class & Sequence Diagrams
 *   [UML Basics (Class & Sequence Diagrams)](./uml.md)
 
