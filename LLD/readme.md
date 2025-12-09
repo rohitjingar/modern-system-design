@@ -12,6 +12,7 @@ This guide serves as a central hub for learning the fundamental principles, patt
 *   [Abstraction](./abstraction.md)
 *   [Cohesion vs Coupling](./cohesion_coupling.md)
 *   [Clean Design](./clean_design.md)
+*   [SOLID](./solid.md)
 
 
 
